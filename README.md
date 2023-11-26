@@ -12,3 +12,6 @@ normally! you can make a issue with your suggestion or if you found a bug.
 
 # is there a community to know the latest updates? 
 yes! here: https://discord.gg/5nF3PJrXkh
+
+# is D-OS open source?
+yes. you can fork it on replit but there's also source code so you can remake it with python. to see the source code, press "view code" below.
