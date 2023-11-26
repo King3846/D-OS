@@ -1,5 +1,5 @@
 # D-OS
-Introducing: D-OS. A os made in replit with python. The original one didn't get updates since 2018 so I decided to fork it and update it regularly.
+Introducing: D-OS. A os (operating system) made in replit with python. The original one didn't get updates since 2018 so I decided to fork it and update it regularly.
 
 # how can i play it?
 you can simply play it on your browser or replit app.
