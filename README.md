@@ -8,7 +8,7 @@ you can simply play it on your browser or replit app.
 if your device supports a browser, yes!
 
 # will you add more features?
-normally! you can make a issue eith your suggestion or if you found a bug. 
+normally! you can make a issue with your suggestion or if you found a bug. 
 
 # is there a community to know the latest updates? 
 yes! here: https://discord.gg/5nF3PJrXkh
