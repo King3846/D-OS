@@ -15,3 +15,8 @@ yes! here: https://discord.gg/5nF3PJrXkh
 
 # is D-OS open source?
 yes. you can fork it on replit but there's also source code so you can remake it with python. to see the source code, press "view code" below.
+
+# what's the current version of this os?
+D-OS 1.2
+
+
