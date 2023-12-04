@@ -20,5 +20,5 @@ yes! here: https://discord.gg/5nF3PJrXkh
 yes. you can fork it on replit but there's also source code so you can remake it with python. to see the source code, press "view code" below.
 
 # what is the current version of D-OS?
-D-OS 1.4 December security patch
+D-OS 1.5 December security patch
 
