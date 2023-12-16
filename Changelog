@@ -1,34 +1,29 @@
 import time
-time.sleep(4)
-print("verifying secure boot")
-time.sleep(4)
-print("verifying kernel")
-time.sleep(4)
-print("BOOT PASS FAIL: boot.img is not patched!")
-time.sleep(4)
-print("patching/sys/dev/recovery")
-time.sleep(4)
-print("verifying secure boot")
-time.sleep(4)
-print("Installing zip file '/data/Download/D-OS 1.4")
-time.sleep(5)
-print("Checking for Digest file Skipping Digest check")
-time.sleep(5)
-print("D-OS boot image Installer")
-time.sleep(4)
-print("target image dev bootimg")
-time.sleep(4)
-print("Constructing environment")
-print("Adding boot protection script")
-
-time.sleep(4)
-
-print("Unpacking boot image")
-time.sleep(4)
-print("Unmounting partitions")
-print("Updater/sdcard/Download/D-OS 1.4zip")
-time.sleep(1)
-print("Updating partition details...")
-
+RAM = "120MB"
+CPU = "intel core i9-12900"
+print("system is starting")
 time.sleep(3)
-print("boot patch success! loading system")
+print("RAM = " + RAM)
+print("CPU = " + CPU)
+time.sleep(2)
+print("boot success!")
+time.sleep(3)
+print("running D-OS 2.0 alpha. type 'help' to see a list of available commands")
+while True:
+    enter = input(">>> ")
+    if enter == "help":
+        print("sysinfo, software update, whoami, shutdown")
+
+    if enter == "sysinfo":
+        print("D-OS 2.0 alpha, CPU: intel, storage: 120MB")
+
+    if enter == "software update":
+        print("D-OS 2.0 brings a new layout made from scratch. It makes the system faster and easier. The system updates automatically")
+
+    if enter == "whoami":
+        print("ADMIN")
+    
+    if enter == "shutdown":
+        print("shutting down...")
+        time.sleep(3)
+        exit(0)
